@@ -1,1 +1,1 @@
-https://${Mardon07}.github.io/cssBayan/cssBayan/index.html
+https://Mardon07.github.io/cssBayan/cssBayan/index.html
